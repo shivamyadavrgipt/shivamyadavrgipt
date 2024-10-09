@@ -57,3 +57,12 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/shivamyadavrgipt.shivamyadavrgipt.svg)
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee 🙂</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/shivamyadav2012" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
