@@ -51,8 +51,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivamyadavrgipt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
-## ⭐️ Show Your Support
-If you find this project valuable or appreciate the work, please consider starring the repository on [GitHub](https://github.com/YOUR_USERNAME). Your support helps increase its visibility and encourages further development. Thank you!
+
 
 
 ```text
